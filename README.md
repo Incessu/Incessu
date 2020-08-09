@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+
+![Tux, the Linux mascot](/assets/images/tux.png)
 <!-- VS Code -->
 <p align="left">
     ![alt Visual Studio Code](https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg)
