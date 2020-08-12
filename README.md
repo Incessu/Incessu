@@ -34,13 +34,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="./images/visualstudiocode.svg"
-     align="left"
-     alt="Visual Studio Code icon"
-     width="26px" />
 
-<img src="images/visualstudiocode.svg" alt="Italian Trulli">
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <!-- 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
@@ -103,3 +98,4 @@ Here are some ideas to get you started:
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+[vscode]: https://code.visualstudio.com/
