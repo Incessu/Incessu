@@ -76,7 +76,7 @@ BLOG-POST-LIST:START
 BLOG-POST-LIST:END -->
 
 </br>
----
+
 <img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=incesubaris&show_icons=true&hide_border=true" />
 
 <img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact&show_icons=true&hide_border=true" />
