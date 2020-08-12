@@ -34,11 +34,14 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudiocode.svg"
+<img src="images/visualstudiocode.svg"
      align="left"
      alt="Visual Studio Code icon"
      width="26px" />
+
 <img src="images/visualstudiocode.svg" alt="Italian Trulli">
+
+
 <!-- 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
