@@ -31,16 +31,19 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
-
-### Languages and Tools:
-
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
 <!-- 
+### Languages and Tools:
+[<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][css]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][c]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][c++]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />][intellij]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/linux.svg" />][linux]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/ubuntu.svg" />][ubuntu]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
@@ -60,9 +63,9 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
+<!--
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START 
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
@@ -80,7 +83,7 @@ Here are some ideas to get you started:
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
-
+-->
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
@@ -99,3 +102,5 @@ Here are some ideas to get you started:
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 [vscode]: https://code.visualstudio.com/
+[ubuntu]: https://code.visualstudio.com/
+[linux]: https://www.linux.org/
