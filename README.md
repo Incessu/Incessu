@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 - [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
 - [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
 <!-- YOUTUBE:END -->
-
+-->
 ---
-
+<!-- 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
