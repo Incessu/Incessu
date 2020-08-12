@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=incesubaris&show_icons=true&hide_border=true" />
 
 [website]: https://web.itu.edu.tr/incesu17
 [twitter]: https://twitter.com/incesubaris
