@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="markdownmonstericon.png"
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudiocode.svg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <!-- 
