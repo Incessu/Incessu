@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="images/visualstudiocode.svg"
+<img src="./images/visualstudiocode.svg"
      align="left"
      alt="Visual Studio Code icon"
      width="26px" />
