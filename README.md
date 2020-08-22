@@ -77,13 +77,13 @@ BLOG-POST-LIST:END -->
 </br>
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=incesubaris)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=incesubaris)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=incesubaris&show_icons=true&hide_border=true" />
+<img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=incesubaris&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact&show_icons=true&hide_border=true" /> -->
 
 
 [website]: https://web.itu.edu.tr/incesu17
