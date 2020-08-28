@@ -83,7 +83,7 @@ BLOG-POST-LIST:END -->
 
 <img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&hide=python&layout=compact&show_icons=true&" />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img align="left" alt="incesubaris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incesubaris&layout=compact&show_icons=true&hide_border=true" /> -->
 
